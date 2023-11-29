@@ -30,3 +30,4 @@ print("{:.2f}".format(distance))
 ![Output](distance.png)
 
 ### RESULT:
+Thus the program to find distance between two points is written and verified using python programming.
